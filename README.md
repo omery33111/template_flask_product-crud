@@ -45,6 +45,7 @@ To run the software, you must write the next command in your CMD or INTERPRETER:
 Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code with simple and clean design.
 
 After running the application, in order to test the app with Thunder the link down INTERPRETER need to be pasted in Thunder's URL in that way:
+
 ![image](https://user-images.githubusercontent.com/110463400/212855775-d4c03c79-ea3c-4976-8213-c0106b0800ac.png)
 
 To add new product, change the METHOD type to "POST" and write your name of product, description and price using that format:
