@@ -37,7 +37,7 @@ In order to install the requirements list to your virtual environments, write th
 To run the software, you must write the next command in your CMD or INTERPRETER:
  ```
   py ./app.py
-  ```
+ ```
 
   
 ### Contact ✏️
