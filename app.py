@@ -26,7 +26,8 @@ class Product(db.Model):
 
 
 @app.route("/product/<int:id>", methods = ["POST", "GET", "DELETE", "PUT"])
-def product(id):
+@app.route("/product/", methods = ["POST", "GET", "DELETE", "PUT"])
+def product(id = -1):
     if request.method == "POST":            # ADD PRODUCT
         data = request.json
         name = data["name"]
