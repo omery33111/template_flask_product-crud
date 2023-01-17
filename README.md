@@ -37,18 +37,11 @@ To run the software, you must write the next command in your CMD or INTERPRETER:
  ```
   py ./app.py
  ```
-
-  
-### Contact ✏️
-
-📧 omery33111@gmail.com
-
-🐱 https://github.com/omery33111
-
+ 
+ 
+# Thunder
 ![image](https://user-images.githubusercontent.com/110463400/212853470-81cc1a73-cc7f-4ca1-bc23-fcfd923447fd.png)
 
-
-## Thunder
 Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code with simple and clean design.
 
 After running the application, in order to test the app with Thunder the link down INTERPRETER need to be pasted in Thunder's URL in that way:
@@ -69,3 +62,10 @@ In order to change column of a product, change the METHOD type to "PUT", write a
 In order to delete product column, change the METHOD type to "DELETE" and add to the URL link the id of the product you'd like to remove:
 ![image](https://user-images.githubusercontent.com/110463400/212863692-1a7d7d33-8ab3-4a06-94c5-efacf323a4da.png)
 
+
+
+### Contact ✏️
+
+📧 omery33111@gmail.com
+
+🐱 https://github.com/omery33111
