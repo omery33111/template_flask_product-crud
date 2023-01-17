@@ -44,3 +44,5 @@ To run the software, you must write the next command in your CMD or INTERPRETER:
 📧 omery33111@gmail.com
 
 🐱 https://github.com/omery33111
+
+![image](https://user-images.githubusercontent.com/110463400/212853084-ec2c5831-38ab-45ed-811c-21be60efe9cb.png)
