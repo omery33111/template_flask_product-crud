@@ -45,4 +45,4 @@ To run the software, you must write the next command in your CMD or INTERPRETER:
 
 🐱 https://github.com/omery33111
 
-![image](https://user-images.githubusercontent.com/110463400/212853288-a7520e81-4adb-469f-b7bc-caedd0cbfddb.png)
+![image](https://user-images.githubusercontent.com/110463400/212853470-81cc1a73-cc7f-4ca1-bc23-fcfd923447fd.png)
