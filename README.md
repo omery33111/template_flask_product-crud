@@ -31,7 +31,6 @@ In order to install the requirements list to your virtual environments, write th
   ```
   pip install -r requirements.txt
   ```
-  ```
 
 3. Run the app ❗️
 To run the software, you must write the next command in your CMD or INTERPRETER:
