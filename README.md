@@ -1,6 +1,6 @@
 # Product CRUD template
 
-This is a template which show a full product CRUD application.
+This is a template which includes a full product CRUD application.
 
 
 ### Technologies
