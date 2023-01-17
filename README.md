@@ -51,6 +51,7 @@ After running the application, in order to test the app with Thunder the link do
 
 
 To add new product, change the METHOD type to "POST" and write your name of product, description and price using that format:
+![image](https://user-images.githubusercontent.com/110463400/212866546-c8198073-1ce7-4530-80e0-7c95e5b268aa.png)
 
 ![image](https://user-images.githubusercontent.com/110463400/212861617-c9d52774-c0f3-4ac3-a664-94120834b1e1.png)
 
